@@ -249,7 +249,7 @@ This practical experience has strengthened my foundation in ethical hacking and 
 All exercises were conducted for educational purposes within the scope of the assigned practical tasks.
 # 8. Evidences Collected
 
-*Screenshots collected as evidence during the activities (stored in):*
+*Screenshots collected as evidence during the activities :*
 
 ![whois output](https://github.com/Zumashe/NETWORKWALKS-WEEK2-PENETRATION-TESTING-REPORT/blob/main/WHOIS.png?raw=true)
 
