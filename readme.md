@@ -259,11 +259,11 @@ All exercises were conducted for educational purposes within the scope of the as
 
 ![curl output](https://github.com/Zumashe/NETWORKWALKS-WEEK2-PENETRATION-TESTING-REPORT/blob/main/CURL.png?raw=true)
 
-![wafw00f output]()
+![wafw00f output](https://github.com/Zumashe/NETWORKWALKS-WEEK2-PENETRATION-TESTING-REPORT/blob/main/w00f.png?raw=true)
 
-![dnsrecon output](screenshots/7_zenmap.png)
+![dnsrecon output]()
 
-![Zenmap scan and topology](screenshots/8_zenmap2.png)
+![Zenmap scan and topology]()
 
 # 9. References
 
