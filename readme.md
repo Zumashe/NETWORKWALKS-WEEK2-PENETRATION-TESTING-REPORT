@@ -261,7 +261,7 @@ All exercises were conducted for educational purposes within the scope of the as
 
 ![wafw00f output](https://github.com/Zumashe/NETWORKWALKS-WEEK2-PENETRATION-TESTING-REPORT/blob/main/w00f.png?raw=true)
 
-![dnsrecon output]()
+![dnsrecon output](https://github.com/Zumashe/NETWORKWALKS-WEEK2-PENETRATION-TESTING-REPORT/blob/main/dnsrecon.png?raw=true)
 
 ![Zenmap scan and topology]()
 
