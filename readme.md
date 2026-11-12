@@ -255,9 +255,9 @@ All exercises were conducted for educational purposes within the scope of the as
 
 ![whatweb output](https://github.com/Zumashe/NETWORKWALKS-WEEK2-PENETRATION-TESTING-REPORT/blob/main/WHATWEB.png?raw=true)
 
-![nslookup output]()
+![nslookup output](https://github.com/Zumashe/NETWORKWALKS-WEEK2-PENETRATION-TESTING-REPORT/blob/main/LOOKUP.png?raw=true)
 
-![curl output](screenshots/4_curl.png)
+![curl output]()
 
 ![wafw00f output](screenshots/5_wafw00f.png)
 
