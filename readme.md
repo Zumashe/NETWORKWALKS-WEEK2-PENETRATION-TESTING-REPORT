@@ -251,7 +251,7 @@ All exercises were conducted for educational purposes within the scope of the as
 
 *Screenshots collected as evidence during the activities (stored in):*
 
-![whois output](screenshots/1_whois.png)
+![whois output](https://github.com/Zumashe/NETWORKWALKS-WEEK2-PENETRATION-TESTING-REPORT/blob/main/WHOIS.png?raw=true)
 
 ![whatweb output](screenshots/2_whatweb.png)
 
