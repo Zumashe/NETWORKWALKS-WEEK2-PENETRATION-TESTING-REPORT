@@ -1,4 +1,4 @@
-# PENETRATION TESTING REPORT (SAMPLE)
+# PENETRATION TESTING REPORT 
 ### Footprinting & Network Scanning Phases
 
 **W2-PM-FINAL  |  CYBERSECURITY  |  NETWORKWALKS**
@@ -263,7 +263,8 @@ All exercises were conducted for educational purposes within the scope of the as
 
 ![dnsrecon output](https://github.com/Zumashe/NETWORKWALKS-WEEK2-PENETRATION-TESTING-REPORT/blob/main/dnsrecon.png?raw=true)
 
-![Zenmap scan and topology](https://github.com/Zumashe/NETWORKWALKS-WEEK2-PENETRATION-TESTING-REPORT/blob/main/Nmap%20output.png?raw=true, )
+![Zenmap scan and topology](https://github.com/Zumashe/NETWORKWALKS-WEEK2-PENETRATION-TESTING-REPORT/blob/main/Nmap%20output.png?raw=true,<img width="2000" height="884" alt="image" src="https://github.com/user-attachments/assets/6cb857c3-48f5-4cbd-a961-caf925eb34ff" />
+ )
 
 # 9. References
 
