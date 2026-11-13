@@ -287,4 +287,15 @@ The following resources were used as references and learning materials during th
 
 These references supported the practical exercises and helped me understand the tools, commands, and techniques used during the footprinting, reconnaissance, and network scanning activities.
 
+
 -End-
+
+ Author
+ZULFA MAHMOUD IDD
+Cybersecurity Professional B082
+LinkedIn: https://www.linkedin.com/in/zulfa-mahmoud?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+
+📌 Project Information
+Program Name: Cybersecurity program at Networkwalks | Week: 02 | Repository: GitHub
+
+
