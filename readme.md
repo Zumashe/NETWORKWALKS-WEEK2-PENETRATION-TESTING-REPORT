@@ -265,8 +265,8 @@ All exercises were conducted for educational purposes within the scope of the as
 
 ![Zenmap scan](https://github.com/Zumashe/NETWORKWALKS-WEEK2-PENETRATION-TESTING-REPORT/blob/main/Nmap%20output.png?raw=true,
 )
-![topology](<img width="2000" height="884" alt="image" src="https://github.com/user-attachments/assets/6cb857c3-48f5-4cbd-a961-caf925eb34ff" />)
 
+![Network Topology](https://github.com/user-attachments/assets/6cb857c3-48f5-4cbd-a961-caf925eb34ff)
 # 9. References
 
 The following resources were used as references and learning materials during the Week 2 cybersecurity practical exercises:
